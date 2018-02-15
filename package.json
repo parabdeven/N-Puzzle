@@ -2,7 +2,7 @@
   "name": "n-puzzle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jckdrpr.github.io/N-Puzzle",
+  "homepage": "https://github.com/parabdeven/puzzletest.git",
   "devDependencies": {
     "flow-bin": "^0.36.0",
     "react-addons-test-utils": "^15.4.1",
